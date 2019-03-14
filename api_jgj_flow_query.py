@@ -13,8 +13,8 @@ from uuid import uuid4
 # 客户端调用接口的权限参数
 #   (要保密)
 #
-AppKey = '25843652'
-AppSecret = '0f36344f9e28ddedceaf1781d24cfcc2'
+AppKey = '25831867'
+AppSecret = '87f1cce5e5cd7162fe852e3c4c0c8971'
 
 
 #
